@@ -1,0 +1,51 @@
+body{
+    background-image: url('IMAGES/realbg.jpeg');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    top: 0;
+    bottom: 0;
+    /* opacity: 0.2; */
+}
+img{
+    /* position:fixed; */
+    top:0;
+    bottom: 0;
+    padding-left: 10px;
+    width: 100px;
+    height: 60px;
+}
+h1{
+    color: beige;
+    padding: 0px 0px 10px 520px;
+
+}
+.form{
+    padding: 0px 0px 0px 300px;
+    color: white;
+}
+.mid{
+    padding-left: 150px;
+    font-size: 20px;
+    /* color: black; */
+}
+.exercise{
+    padding-left: 150px;
+}
+.exercise #yoga:hover{
+    color: black;
+}
+.button{
+    padding-left: 260px;
+    width: 250px;
+    height: 50px;
+}
+button{
+    background-color: rgb(8, 4, 5);
+    color: aliceblue;
+    width: 180px;
+    height: 30px;
+    font-size: 15px;
+}
+.form{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
